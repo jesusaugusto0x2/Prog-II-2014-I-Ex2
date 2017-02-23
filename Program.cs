@@ -10,11 +10,7 @@ public class MixedFraction
 
     }
 
-
-
 }
-
-
 
 public class Program
 {
@@ -44,4 +40,5 @@ public class Program
             Console.Read();
 
         }
+        
 }
